@@ -17,7 +17,7 @@ main {
 }
 
 header {
-  background: linear-gradient(rgba(80, 112, 126, 0.5), 
+  background: linear-gradient(rgba(105, 161, 122, 0.5), 
     rgba(80, 112, 126, 1)), 
       url(img/churchbg.jpg);
   background-size: cover;

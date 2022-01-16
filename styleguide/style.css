@@ -17,6 +17,10 @@ main {
 }
 
 header {
+  background: linear-gradient(rgba(80, 112, 126, 0.5), 
+    rgba(80, 112, 126, 1)), 
+      url(img/churchbg.jpg);
+  background-size: cover;
   border-radius: 5px;
   padding: 40px;
   text-align: center;
@@ -25,12 +29,16 @@ header {
 }
 
 header p {
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 
 header img {
   max-width: 300px;
   border-radius: 15px;
+}
+
+header h1 {
+  font-size: 3em;
 }
 
 section {
